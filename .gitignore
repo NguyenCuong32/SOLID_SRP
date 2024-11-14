@@ -1,0 +1,12 @@
+Delegate_Event/bin/*
+Delegate_Event/obj/*
+Demo_Event/bin/*
+Demo_Event/obj/*
+DIP/obj/*
+DIP/bin/*
+ISP/obj/*
+ISP/bin/*
+OCP/obj/*
+OCP/bin/*
+SRP/bin/*
+SRP/obj/*
